@@ -1,6 +1,14 @@
+.giovanalimaoliveira{
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+}
 h1{
     text-align: center;
     background-color: lightskyblue;
+    font-size: 40px;
+}
+h2{ 
 }
 p{
     font-size: 26px;
