@@ -8,8 +8,19 @@ h1{
     background-color: rgb(96, 201, 143);
     font-size: 40px;
 }
-h2{ 
-}
 p{
     font-size: 26px;
+}
+/*versao mobile*/
+@media screen and(min-width: 768px) {
+
+}
+/*versao desktop*/
+@media screen and (min-width:1728px){ 
+    .cabecalho{
+        padding: 0 2em;
+
+}
+    .cabecalho{
+        padding: 0 2em;
 }
