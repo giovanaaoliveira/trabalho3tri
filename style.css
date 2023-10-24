@@ -11,12 +11,21 @@ h1{
 p{
     font-size: 26px;
 }
+h2{
+    text-align: center;
+    background-color: rgb(176, 221, 99);
+    font-size: 30px;
+}
+li{
+    font-size: 26px;
+}
+
 /*versao mobile*/
 @media screen and(min-width: 768px) {
 
 }
 /*versao desktop*/
-@media screen and (min-width:1728px){ 
+@media screen and (min-width:1728px) {}
     .cabecalho{
         padding: 0 2em;
 
